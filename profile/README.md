@@ -12,7 +12,7 @@ We specialize in building **high-performance trading bots** and **smart contract
   - Token Monitoring Bot based on MarketCap
   - Liquidation Monitoring Bot
 
-* Basic Trading Bots
+* Main Trading Bots
   - Limit Order Bot
   - Solana Raydium Sniper Bot
   - Solana PumpFun Sniper Bot
