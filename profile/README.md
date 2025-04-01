@@ -25,7 +25,6 @@ We specialize in building **high-performance trading bots** and **smart contract
   - Auto Trading Bot
 
 * Advanced Trading Bots
-  - Solana Wallet Tracker
   - MEV Arbitrage Bot
   - Jupiter Arbitrage Bot
   - Flash Loan Arbitrage Bot
